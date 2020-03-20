@@ -1,0 +1,30 @@
+body {
+  padding-top: 35px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.navbar-brand {
+  height: 78px;
+  line-height: 45px;
+}
+
+#testo1 {
+  padding-top: 90px;
+  margin-top: 50px;
+}
+
+#icona {
+  max-height: 55px;
+  max-width: 55px;
+  margin: 0px auto;
+}
+
+#scheda2 {
+  padding: 100px;
+}
+
+#scheda3 {
+  min-height: 100px;
+  max-width: 400px;
+  margin:auto;
+}
